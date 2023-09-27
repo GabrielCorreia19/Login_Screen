@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "AppScreen",
+    "name": "Login",
     "slug": "AppScreen",
     "version": "1.0.0",
     "orientation": "portrait",
